@@ -4,7 +4,8 @@ React To-Do App
 
 A simple, efficient, and elegant to-do list application built with React to help users stay organized and productive.
 
-Features
+
+Features :
 
 📝 Add tasks to your to-do list.
 
@@ -16,7 +17,8 @@ Features
 
 🔄 Responsive design for mobile and desktop.
 
-Technologies Used
+
+Technologies Used :
 
 React: For building the UI.
 
@@ -26,7 +28,8 @@ LocalStorage/Backend API: For data persistence.
 
 (Optional) Redux/Context API: For state management.
 
-Installation
+
+Installation :
 
 1) Clone the repository:
 
@@ -43,12 +46,13 @@ Installation
 
 4) Usage
    
-Start the app by running npm start.
+      Start the app by running npm start.
 
-Navigate to http://localhost:3000 in your browser.
+      Navigate to http://localhost:3000 in your browser.
 
 
-Future Improvements
+
+Future Improvements :
 
 🌟 Add categories or tags for tasks.
 
